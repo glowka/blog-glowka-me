@@ -6,7 +6,7 @@
 name: Tomasz Główka
 
 # Short bio or description (displayed in the header)
-description: Pisze tu
+description: Blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/glowka
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: glowka/blog-glowka-me
   instagram:
-  linkedin: tomasz.glowka
+  linkedin: tomasz-glowka
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: GlowkaTom
