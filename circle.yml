@@ -13,7 +13,7 @@ dependencies:
 # Need to tell Circle CI how to build the site
 compile:
   override:
-    - bundle exec jekyll build --verbose
+    - jekyll build --verbose
 
 # Circle CI expects some kind of testing to pass in order for the
 # build to be successful and deploy. Since you don't have tests
