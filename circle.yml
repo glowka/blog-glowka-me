@@ -4,10 +4,11 @@ machine:
   node:
     version: 6.10.3
 
-# Need to install firebase-tools so that the deploy works
-dependencies:
-  pre:
-    - bundle install --path=vendor/bundle
+# All dependencies are completed automatically based on Gemfile and package.json
+# dependencies:
+#  pre:
+#    - bundle install --path=vendor/bundle
+#    - npm install firebase-tools
 
 # Need to tell Circle CI how to build the site
 compile:
