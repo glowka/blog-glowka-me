@@ -6,10 +6,7 @@ machine:
 
 # Need to install firebase-tools so that the deploy works
 dependencies:
-  cache_directories:
-    - "node_modules"
   pre:
-    - npm install firebase-tools
     - bundle install --path=vendor/bundle
 
 # Need to tell Circle CI how to build the site
