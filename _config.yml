@@ -6,7 +6,7 @@
 name: Blog
 
 # Short bio or description (displayed in the header)
-description: 
+description:  ""
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/glowka
@@ -84,7 +84,6 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-  - [vendor]
-
-exclude: [vendor]
+  - vendor
+  - node_modules
 
