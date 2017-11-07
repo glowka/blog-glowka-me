@@ -1,0 +1,15 @@
+{
+  "name": "glowka-me",
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "firebase": "firebase",
+    "firebase-deploy": "firebase deploy"
+  },
+  "private": true,
+  "dependencies": {
+  },
+  "devDependencies": {
+    "firebase-tools": "^3.9.1"
+  }
+}
