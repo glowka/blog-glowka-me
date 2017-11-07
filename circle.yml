@@ -3,6 +3,9 @@
 machine:
   node:
     version: 6.10.3
+  environment:
+   PATH: "$(ruby -rubygems -e 'puts Gem.user_dir')/bin:$PATH"
+
 
 # Need to install firebase-tools so that the deploy works
 dependencies:
