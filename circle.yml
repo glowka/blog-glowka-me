@@ -15,6 +15,7 @@ dependencies:
 # Need to tell Circle CI how to build the site
 compile:
   override:
+    - export PATH="$(ruby -rubygems -e 'puts Gem.user_dir')/bin:$PATH"
     - jekyll build --verbose
 
 # Circle CI expects some kind of testing to pass in order for the
