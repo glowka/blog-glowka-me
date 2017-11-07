@@ -13,13 +13,13 @@ dependencies:
     - "~/.gem"
     - "node_modules"
   pre:
+    - echo $PATH
     - npm install firebase-tools
-    - gem install --user-install github-pages
+    - gem install --user-install github-pages jekyll
 
 # Need to tell Circle CI how to build the site
 compile:
   override:
-    - export PATH="$(ruby -rubygems -e 'puts Gem.user_dir')/bin:$PATH"
     - jekyll build --verbose
 
 # Circle CI expects some kind of testing to pass in order for the
