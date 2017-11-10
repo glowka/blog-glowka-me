@@ -8,6 +8,7 @@ excerpt: >-
   dokładnie nie wiem.
 category:
   - main
+date: 2017-11-11
 ---
 Okej, jakiś czas temu wyruszyłem w podróż – w sumie upłynęło już niemal sześć tygodni… Spodziewałem się, że podróż będzie długa. Nie pomyliłem się. Nie wiedziałem, dokładnie dokąd i dokładnie za czym będę podróżował. Nadal dokładnie nie wiem.
 
