@@ -1,10 +1,14 @@
 ---
 published: true
-title: "Od początku"
-excerpt: "Jakis czas temu wyruszyłem w podróż, w sumie upłynęło już niemalże sześć tygodni odkąd wyruszyłem w podróż. Spodziewałem się, że długą. Podtrzymuję. Nie wiedziałem dokładnie dokąd i dokładnie za czym. Nadal dokładnie nie wiem."
-category: [main]
+title: Od początku
+excerpt: >-
+  Okej, jakis czas temu wyruszyłem w podróż, w sumie upłynęło już niemalże
+  sześć  tygodni... Spodziewałem się, że długą. Podtrzymuję. Nie wiedziałem
+  dokładnie dokąd i dokładnie za czym. Nadal dokładnie nie wiem.
+category:
+  - main
 ---
-Jakis czas temu wyruszyłem w podróż, w sumie upłynęło już niemalże sześć tygodni odkąd wyruszyłem w podróż. Spodziewałem się, że długą. Podtrzymuję. Nie wiedziałem dokładnie dokąd i dokładnie za czym. Nadal dokładnie nie wiem.
+Okej, jakis czas temu wyruszyłem w podróż, w sumie upłynęło już niemalże sześć tygodni... Spodziewałem się, że długą. Podtrzymuję. Nie wiedziałem dokładnie dokąd i dokładnie za czym. Nadal dokładnie nie wiem.
 
 Przez ten czas przemierzyłem parę krajów, w jednych zatrzymując się krócej, w innych dłużej. Wszystkie fajne, niektóre nawet bardzo. We wszystkich chleb droższy niż w Polsce, w niektórych dużo. Momentami bardziej jako turysta, płynący z tłumem znanych atrakcji, a kiedy indziej jako obcy zamyślony nieznajomy błąkający się po zupełnie szarych osiedlach przedmieść.
 
