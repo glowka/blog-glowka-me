@@ -27,8 +27,6 @@ W moim wieku, młodsi, starsi, dużo starsi, dwa razy starsi, z całego świata 
 
 Dlaczego ja o tej Malcie? Bo w tym miejscu jednoznacznie utwierdziłem się, że życie z dużą, różnorodną grupą ludzie w jednym budynku to jest coś do zrobienia. Co istotniejsze: ja, człek nie najbardziej otwarty na świecie, szukający często osamotnienia, mogę dobrze w takich warunkach funkcjonować. Żyję radośniej, poznaję ludzi, świat i siebie intensywniej. Wcale nie potrzebuje od tego odpoczywać, bo jakimś cudem daje mi to dużo energii.
 
-To były zaledwie dwa tygodnie, a czy tak będzie za kolejne dwa, a za dwa miesiące, dwanaście? Nie wiem, od jakiegoś czasu staram się mniej gdybywać i po prostu mówić sobie - sprawdzam. Względem tego co doświadczyłem w two pillows, chciałbym trochę przesunąć akcenty, rozmowy oplatające cały świat i wszystkie tematy, odrobinę ukierunkować w stronę szeroko pojętej przedsiębiorczości, aktywności zawodowej. Trochę więcej dowolnej "produktywnej" aktywności w skupieniu, chodźby oznaczała ona wspomaganie kogoś z mojego otoczenia pracującego nad jakimś projektem czy pisanie tutaj. Bo co raz barzdziej czuję głód działania, budowania.
-
 To były zaledwie dwa tygodnie, a czy tak będzie za kolejne dwa? A za dwa miesiące czy dwanaście? Nie wiem, od jakiegoś czasu staram się mniej gdybać i po prostu mówić sobie – sprawdzam. Co by dobrego o Two Pillows nie mówić, to mimo wszystko jest to miejsce dla typowych podróżników, a ja chciałbym stopniowo przesuwać akcenty: rozmowy oplatające cały świat i wszystkie tematy odrobinę przekierować w stronę szeroko pojętej przedsiębiorczości, aktywności zawodowej. Trochę więcej dowolnej “produktywnej” aktywności w skupieniu, choćby oznaczała ona wspomaganie kogoś z mojego otoczenia pracującego nad jakimś projektem czy pisanie tutaj. Bo co raz bardziej czuję głód działania, budowania. 
 
 Dlatego 14.11 przeskakuję 100 km z Walencji do Xabii, kierunek Co-living/co-working [Sun and Co.](https://sun-and-co.com/).
@@ -48,6 +46,3 @@ _Two Pillows - jak w domu. Tylko sprzątać nie trzeba._
 
 ![A to już Walencja i miejsce wokół którego chodziłem przez półtorej godziny smakując każdej perspektywy.]({{site.baseurl}}/images/valencia_impressed.jpg)
 _A to już Walencja i miejsce wokół którego chodziłem przez półtorej godziny smakując każdej perspektywy._
-
-
-
