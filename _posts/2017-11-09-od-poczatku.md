@@ -34,3 +34,20 @@ To były zaledwie dwa tygodnie, a czy tak będzie za kolejne dwa? A za dwa miesi
 Dlatego 14.11 przeskakuję 100 km z Walencji do Xabii, kierunek Co-living/co-working [Sun and Co.](https://sun-and-co.com/).
 
 Do następnego!
+
+
+
+
+
+#### P.S. Mały bonus
+![Taką Maltę widziałem najczęściej]({{site.baseurl}}/images/malta_as_i_see_it.jpg)
+_Taką Maltę widziałem najczęściej_
+
+![Two Pillows - jak w domu. Tylko sprzątać nie trzeba.]({{site.baseurl}}/images/two_pillows_common.jpg)
+_Two Pillows - jak w domu. Tylko sprzątać nie trzeba._
+
+![A to już Walencja i miejsce wokół którego chodziłem przez półtorej godziny smakując każdej perspektywy.]({{site.baseurl}}/images/valencia_impressed.jpg)
+_A to już Walencja i miejsce wokół którego chodziłem przez półtorej godziny smakując każdej perspektywy._
+
+
+
