@@ -2,6 +2,7 @@
 published: true
 title: "Od początku"
 excerpt: "Jakis czas temu wyruszyłem w podróż, w sumie upłynęło już niemalże sześć tygodni odkąd wyruszyłem w podróż. Spodziewałem się, że długą. Podtrzymuję. Nie wiedziałem dokładnie dokąd i dokładnie za czym. Nadal dokładnie nie wiem."
+category: [main]
 ---
 Jakis czas temu wyruszyłem w podróż, w sumie upłynęło już niemalże sześć tygodni odkąd wyruszyłem w podróż. Spodziewałem się, że długą. Podtrzymuję. Nie wiedziałem dokładnie dokąd i dokładnie za czym. Nadal dokładnie nie wiem.
 
