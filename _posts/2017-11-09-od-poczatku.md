@@ -8,7 +8,7 @@ excerpt: >-
   dokładnie nie wiem.
 category:
   - main
-date: 2017-11-11
+date: 2017-11-10
 ---
 Okej, jakiś czas temu wyruszyłem w podróż – w sumie upłynęło już niemal sześć tygodni… Spodziewałem się, że podróż będzie długa. Nie pomyliłem się. Nie wiedziałem, dokładnie dokąd i dokładnie za czym będę podróżował. Nadal dokładnie nie wiem.
 
@@ -39,6 +39,10 @@ Do następnego!
 
 
 #### P.S. Mały bonus
+
+![Two Pillows wita!]({{site.baseurl}}/images/two_pillows_welcome.jpg)
+_Two Pillows wita!_
+
 ![Taką Maltę widziałem najczęściej]({{site.baseurl}}/images/malta_as_i_see_it.jpg)
 _Taką Maltę widziałem najczęściej_
 
