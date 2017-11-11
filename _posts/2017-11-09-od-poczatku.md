@@ -20,7 +20,7 @@ Nie sposób naraz wszystko streścić, w sumie nie jest mi nawet łatwo zacząć
 
 ## Co u mniej słychać?
 
-Od wczoraj jestem w Walencji, tylko na parę dni. Trafiłem tutaj z Malty, na której z kolei spędziłem ostatnie 2 tygodnie. Sama Malta w porządku, tak na 4 dni. Spędziłem tam jednak znacznie więcej czasu, bo trafiłem do [Two Pillows Boutique Hostel](http://www.twopillowsmalta.com) – f-e-n-o-m-e-n-a-l-n-e-g-o miejsca, w którym pracującym tam ludziom udało się stworzyć atmosferę jak we wspólnym, dużym domu.
+Od dwóch dni jestem w Walencji, tylko na parę dni. Trafiłem tutaj z Malty, na której z kolei spędziłem ostatnie 2 tygodnie. Sama Malta w porządku, tak na 4 dni. Spędziłem tam jednak znacznie więcej czasu, bo trafiłem do [Two Pillows Boutique Hostel](http://www.twopillowsmalta.com) – f-e-n-o-m-e-n-a-l-n-e-g-o miejsca, w którym pracującym tam ludziom udało się stworzyć atmosferę jak we wspólnym, dużym domu.
 
 W moim wieku, młodsi, starsi, dużo starsi, dwa razy starsi, z całego świata – wszyscy zadowoleni. Porządne dormitoria i tak dalej, ale przede wszystkim świetne przestrzenie wspólne. W dowolnej chwili znajdziecie kogoś do bardzo interesującej rozmowy albo wspólnego przejścia się gdzieś, ale da się również posiedzieć w skupieniu. Wieczorem znajdziecie, choć nie szukaliście, kompanów do kolacji, a już po, przy przedłużającej się rozmowie, wypijecie kieliszek czy dwa wina. Na papierze każdy hostel chce tak wyglądać – tam to po prostu działa.
 
@@ -30,7 +30,7 @@ Dlaczego ja o tej Malcie? Bo w tym miejscu jednoznacznie utwierdziłem się, że
 
 To były zaledwie dwa tygodnie, a czy tak będzie za kolejne dwa? A za dwa miesiące czy dwanaście? Nie wiem, od jakiegoś czasu staram się mniej gdybać i po prostu mówić sobie – sprawdzam. Co by dobrego o Two Pillows nie mówić, to mimo wszystko jest to miejsce dla typowych podróżników, a ja chciałbym stopniowo przesuwać akcenty: rozmowy oplatające cały świat i wszystkie tematy odrobinę przekierować w stronę szeroko pojętej przedsiębiorczości, aktywności zawodowej. Trochę więcej dowolnej “produktywnej” aktywności w skupieniu, choćby oznaczała ona wspomaganie kogoś z mojego otoczenia pracującego nad jakimś projektem czy pisanie tutaj. Bo co raz bardziej czuję głód działania, budowania. 
 
-Dlatego 14.11 przeskakuję 100 km z Walencji do Xabii, kierunek Co-living/co-working [Sun and Co.](https://sun-and-co.com/).
+Dlatego 14.11 przeskakuję 100 km z Walencji do Xabii, kierunek co-living/co-working [Sun and Co.](https://sun-and-co.com/).
 
 Do następnego!
 
