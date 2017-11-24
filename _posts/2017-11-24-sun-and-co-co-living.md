@@ -14,10 +14,16 @@ Alicante okazało się miastem podporządkowanym turystyce, jednak raczej spokoj
 
 ## Co-living
 
-Idea prosta. Pokoje różne - prywatne lub współdzielone. Do tego przestrzeń wspólna. W wersji minimalnej kuchnia, jadalnia i coś bardziej do relaksu z kanapą i fotelami. W co-livingu połączonym z co-workingiem dochodzi jeszcze jakieś cichsze miejsce do pracy. Czasem przestrzeń co-workingowa jest zintegrowana z tą życiową, a czasem odrobinę oddzielona. Na ogół te co-livingowe twory to efekt ewolucji z innych pokrewnych form typu hostele, pokoje, apartamenty. Właściciele starają się stworzyć miesjca jak najlepiej dopasowane do potrzeb gości, a goście pojawiają się coraz nowi, bo rynek pracy coraz większym rzeszom ludzi umożliwia łączenie przemieszczania się i pracowania: właściciele e-sklepów, freelancerzy lub pełnoetatowi pracownicy pracujący zdalnie.
+Idea prosta. Pokoje różne - prywatne lub współdzielone. Do tego przestrzeń wspólna. W wersji minimalnej kuchnia, jadalnia i coś bardziej do relaksu z kanapą i fotelami. Każdy śpi, gotuje, pracuje oraz odpoczywa jak chcesz i kiedy chce, jednak łatwo się zorganizować, aby coś porobić wspólnie.
 
-### SunAndCo.
+W co-livingu połączonym z co-workingiem dochodzi jeszcze jakieś cichsze miejsce do pracy. Czasem przestrzeń co-workingowa jest zintegrowana z tą życiową, a czasem oddalona o parę minut spacerem. Na ogół te co-livingowe twory to efekt ewolucji z innych pokrewnych form typu hostele, pokoje, apartamenty. Właściciele starają się stworzyć miesjca jak najlepiej dopasowane do potrzeb gości, a goście pojawiają się coraz nowi, bo rynek pracy coraz większym rzeszom ludzi umożliwia łączenie przemieszczania się i pracowania: właściciele e-sklepów, freelancerzy lub pełnoetatowi pracownicy pracujący zdalnie.
 
+### A jak w praktyce? Dla mnie wyśmienicie
 
+Aktualnie mieszkam w czteroosobowym pokoju i choć mógłbym w dwuosobowym lub prywatnym, to nie czuję potrzeby, bo w zasadzie służy on tylko do spania. Cały w zasadzie czas spędza się w różnorodnej przestrzeni wspólnej. To trochę tak jakby wziąć mieszkanie ze sporym salonem gabinetem do pracy i pomnożyć przez trzy, żeby tych 15 mieszkańców (tyle jest średnio) mogło się rozejść po mieszkaniu, obstawiając biurka, kanapy i stoliki. Czasem więcej osób chilluje, czasem jest nastrój bardziej do pracy. Świetne jest jednak to, że gdy chce się pracować, zawsze ktoś inny pracuje i roztacza wokół siebie aurę skupienia. Gdy się wstanie od pracy i ma się ochotę pogadać, to na pewno się ktoś znajdzie. Zawsze spotka się parę osób na śniadaniu, zawsze parę osób pije wino wieczorem. To wszystko są takie drobne, zwyczajne rzeczy, ale gdy się je wszystkie złoży, to razem to jest naprawdę duży pozytyw każdego dnia.
 
+Jest jeszcz wiele tym podobnych mniejszych i większych szczegółów, o których chciałbym stopniowo opowiadać. Zarazem nie chodzi mi tutaj o roztaczanie utopijnej wizji, bo nie uważam, że co-living jest rozwiązaniem na każdą okazję i na wszelkie potrzeby ludzkie. Jednak dla mnie, na teraz wydaje się być chyba lepszy niż cokolwiek. Spodziewam się też, że może być interesującym rozwiązaniem dla osób, które nie chcą się przełączać zero-jedynkowo między intensywnym pracowaniem i intensywnym turyzmem. Zresztą zaglądają tutaj też ludzie tylko tymczasowo pracujący zdalnie, przez tydzień lub dwa, szukający świeżości.
 
+## A co dalej ze mną?
+
+Mieszkanie w miejcu takim jak to bardzo pomaga mi odpowiedzieć sobie na trochę pytań, które w między czasie  nagromadziły się w mojej głowie. Trochę pomaga w tym sama aura, trochę konkrente rozwiązania. Z checią napiszę o tym wkrórce. Trzymajcie się!
