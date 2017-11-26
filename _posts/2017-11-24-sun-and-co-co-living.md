@@ -2,6 +2,8 @@
 published: true
 title: Co-living w praktyce
 slug: co-living-w-praktyce
+category: main
+date: 26.11.2017
 ---
 Rozstaliśmy się niedługo po moim przeskoku z Malty do Walencji, gdy mentalnie przygotowywałem się do pierwszego doświadczenia co-livingu. W miasteczku Xabia (a w zasadzie wg lokalnych to Javea), położonym 100 km na południowy-wschód od Walencji, zgodnie z planem znalazłem się parę dni później tj. 14. listopada.
 
@@ -33,23 +35,25 @@ Trzymajcie się!
 
 
 #### P.S. Tak, zdjęcioszki.
-![1_alicante_mountain.jpg]({{site.baseurl}}/_posts/1_alicante_mountain.jpg)
+
+![1\_alicante\_mountainuntain.jpg]({{site.baseurl}}/images/1_alicante_mountain.jpg)
 _Alicante - góra._
 
-![2_alicante_from_mountain.jpg]({{site.baseurl}}/_posts/2_alicante_from_mountain.jpg)
+![2\_alicante\_from\_mountain.jpg]({{site.baseurl}}/images/2_alicante_from_mountain.jpg)
 _I z góry._
 
-![3_javea_window_patio.jpg]({{site.baseurl}}/_posts/3_javea_window_patio.jpg)
+![3\_javea\_window\_patio.jpg]({{site.baseurl}}/images/3_javea_window_patio.jpg)
 _Widok z mojego łóżka na patio._
 
-![4_javea_common_space.jpg]({{site.baseurl}}/_posts/4_javea_common_space.jpg)
+![4\_javea\_common\_space.jpg]({{site.baseurl}}/images/4_javea_common_space.jpg)
 _Hol zaaranżowany na przytulną przestrzeń wspólną. Jeśli ktoś ciekaw jak wygląda reszta domu to odsyłam na stronę [Sun and Co.](https://sun-and-co.com/), wszystko tam prawdziwe._
 
-![5_javea_market_hoop.jpg]({{site.baseurl}}/_posts/5_javea_market_hoop.jpg)
+![5\_javea\_market\_hoop.jpg]({{site.baseurl}}/images/5_javea_market_hoop.jpg)
 _Plac 100 metrów od domu z tablicą do kosza (tak, jest tam gdzieś) lub raz w tygodniu targ._
 
-![6_javea_lighthouse.jpg]({{site.baseurl}}/_posts/6_javea_lighthouse.jpg)
+![6\_javea\_lighthouse.jpg]({{site.baseurl}}/images/6_javea_lighthouse.jpg)
 _Widok z czubka półwyspu w stronę lądu na miasteczko i otaczający je płaskowyż..._
 
-![7_javea_lighthouse2.jpg]({{site.baseurl}}/_posts/7_javea_lighthouse2.jpg)
-_...oraz drugą stronę zatoki, tego dnia wiało._
+![7\_javea\_lighthouse2.jpg]({{site.baseurl}}/images/7_javea_lighthouse2.jpg)
+_...oraz na drugą stronę zatoki, tego dnia wiało._
+
