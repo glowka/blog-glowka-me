@@ -30,3 +30,20 @@ Zarazem nie chodzi mi tutaj o roztaczanie utopijnej wizji, bo nie uważam, że c
 Podobnie ze mną, czuję że jest to świetne miejsce, w którym mogę wiele rzeczy przemyśleć i odpowiedzieć sobie na wiele pytań, które w między czasie nagromadziły się w mojej głowie. Dzięki bardzo różnorodnemu, narodowo i zawodowo, środowisku uczę się wielu rzeczy - profesjonalnie, ale też po ludzku. Nie bez znaczenia jest dla mnie fakt, że w domu obowiązuje język angielski. Przedłużam więc mój pobyt i zamiast do końca listopada, będę tu niemalże do świąt.
 
 Trzymajcie się!
+
+
+#### P.S. Tak, zdjęcioszki.
+![1_alicante_mountain.jpg]({{site.baseurl}}/_posts/1_alicante_mountain.jpg)
+_Alicante - góra,_
+![2_alicante_from_mountain.jpg]({{site.baseurl}}/_posts/2_alicante_from_mountain.jpg)
+_I z góry._
+![3_javea_window_patio.jpg]({{site.baseurl}}/_posts/3_javea_window_patio.jpg)
+_Widok z mojego łóżka na patio,_
+![4_javea_common_space.jpg]({{site.baseurl}}/_posts/4_javea_common_space.jpg)
+_Hol / przesztrzeń wspólna _
+![5_javea_market_hoop.jpg]({{site.baseurl}}/_posts/5_javea_market_hoop.jpg)
+_Plac 100 metrów od domu z tablicą do kosza (tak, jest tam gdzieś) lub raz w tygodniu targ._
+![6_javea_lighthouse.jpg]({{site.baseurl}}/_posts/6_javea_lighthouse.jpg)
+_Widok z czubka półwyspu w stronę lądu na miasteczko i otaczający je płaskowyż..._
+![7_javea_lighthouse2.jpg]({{site.baseurl}}/_posts/7_javea_lighthouse2.jpg)
+_...oraz drugą stronę zatoki, tego dnia wiało._
